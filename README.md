@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!--
 ![Profile Picture](https://github.com/Sr1janKundu) <!-- Replace with actual image link -->
--->
+
 **Location:** Kolkata, India  
 **Email:** srijan.kundu7@gmail.com  
 **Phone:** +91 9831800517  
