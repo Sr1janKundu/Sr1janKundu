@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Srijan Kundu, a Data Scientist with a passion for machine learning and AI. I have experience in deep learning, image processing, and NLP, with skills in Python, PyTorch, TensorFlow, SQL and Streamlit. I love tackling challenging problems and am currently exploring generative AI. Let's connect and innovate together!
+Hi, I'm Srijan Kundu, a Data Scientist with a passion for machine learning and AI. I have experience in deep learning, image processing, and NLP, with skills in Python, PyTorch, TensorFlow, SQL etc. I love tackling challenging problems and am currently exploring generative AI. Let's connect and innovate together!
 
 ## Qualifications
 - 🎓 Bachelor of Science (Hons.) in Mathematics
