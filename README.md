@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there,  I'm Srijan!👋
 
 <!--
 **Sr1janKundu/Sr1janKundu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Srijan Kundu
+
+Hi, I'm Srijan Kundu, a Data Scientist with a passion for machine learning and AI. I have experience in deep learning, image processing, and NLP, with skills in Python, SQL, TensorFlow, and Streamlit. I love tackling challenging problems and am currently exploring generative AI. Let's connect and innovate together!
+
+## Qualifications
+- 🎓 Bachelor of Science (Hons.) in Mathematics
+- 🎓 Master of Science in Data Science 
+
+## Contact
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/srijan-kundu/)
 
 <!--
 ![Profile Picture](https://github.com/Sr1janKundu) <!-- Replace with actual image link -->
-
+<!--
 **Location:** Kolkata, India  
 **Email:** srijan.kundu7@gmail.com  
 **Phone:** +91 9831800517  
